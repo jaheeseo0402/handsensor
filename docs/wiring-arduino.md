@@ -2,6 +2,12 @@
 
 flex 센서 3개(검지·중지·약지) + OLED + 버튼 + LED 2개. 원본 설계서(ESP32, 센서 5개)와 다른 버전이다.
 
+## 1단계: 센서 1개 + OLED (현재 조립 상태)
+
+![센서 1개 + OLED 배선도](img/wiring-arduino-1sensor.png)
+
+## 최종: 센서 3개 + OLED + 버튼 + LED
+
 ![전체 배선도](img/wiring-arduino.png)
 
 ## 연결표
