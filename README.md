@@ -31,7 +31,8 @@ flex 센서 장갑으로 손동작을 인식해 OLED 러너 게임을 조작하�
 | 파일 | 내용 |
 |---|---|
 | [docs/handplay-design-v1.pdf](docs/handplay-design-v1.pdf) | 원본 설계서 (2026.11.17, @정민) |
-| [docs/hardware.md](docs/hardware.md) | 부품 목록, 회로, 핀 배치, 3D 프린팅 부품 |
+| [docs/hardware.md](docs/hardware.md) | 부품 목록, 회로, 핀 배치, 3D 프린팅 부품 (ESP32 버전) |
+| [docs/wiring-arduino.md](docs/wiring-arduino.md) | 전체 배선도와 연결표 (Arduino 버전, 센서 3개) |
 | [docs/design-review.md](docs/design-review.md) | 부품 주문 전 설계 검토 사항과 처리 상태 |
 
 ## 진행 상황
